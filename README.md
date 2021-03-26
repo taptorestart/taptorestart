@@ -1,1 +1,2 @@
-👋 Hi, I’m taptorestart
+GAME OVER
+Tap to restart
