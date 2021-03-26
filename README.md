@@ -1,2 +1,3 @@
 GAME OVER
-Tap to restart
+
+Tap to restart!
